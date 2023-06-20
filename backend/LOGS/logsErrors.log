@@ -1,0 +1,751 @@
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, scandir 'D:\\PROJECTS\\STORIES_MS\\backend\\MODULES\\STORIES\\Love'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'scandir',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\MODULES\\STORIES\\Love',
+    timestamp: '2023-06-03T08:12:56.351Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1',
+    timestamp: '2023-06-06T08:42:06.033Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1',
+    timestamp: '2023-06-06T08:45:23.378Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1',
+    timestamp: '2023-06-06T08:50:03.833Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1',
+    timestamp: '2023-06-06T08:52:59.344Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tx'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tx',
+    timestamp: '2023-06-06T09:02:29.940Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tx'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tx',
+    timestamp: '2023-06-06T09:05:46.243Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tx'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tx',
+    timestamp: '2023-06-06T09:08:26.317Z'
+  }
+}
+{
+  level: 'error',
+  message: 'message sent: <350d6ffc-bd71-8fd7-cd20-9d784e9fd8cd@gmail.com>',
+  metadata: { timestamp: '2023-06-06T09:08:33.476Z' }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tx'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tx',
+    timestamp: '2023-06-06T09:09:49.766Z'
+  }
+}
+{
+  level: 'error',
+  message: 'message sent: <6e8bb9e9-529a-1626-5ebe-6b731fef941d@gmail.com>',
+  metadata: { timestamp: '2023-06-06T09:09:55.397Z' }
+}
+{
+  level: 'error',
+  message: 'message sent: <4d489439-0e10-d2f8-996c-d1d984e3d03e@gmail.com>',
+  metadata: { timestamp: '2023-06-06T09:11:18.645Z' }
+}
+{
+  level: 'error',
+  message: 'message sent: <25b94381-c861-caf1-e36c-13cfa6f82856@gmail.com>',
+  metadata: { timestamp: '2023-06-06T09:12:11.041Z' }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tx'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tx',
+    timestamp: '2023-06-06T09:15:15.980Z'
+  }
+}
+{
+  level: 'error',
+  message: 'connect ETIMEDOUT 142.250.4.108:465',
+  metadata: {
+    errno: -4039,
+    code: 'ESOCKET',
+    syscall: 'connect',
+    address: '142.250.4.108',
+    port: 465,
+    command: 'CONN',
+    timestamp: '2023-06-06T09:15:35.466Z'
+  }
+}
+{
+  level: 'error',
+  message: 'message sent: <878fcab5-528e-a327-1178-e68d22e579fc@gmail.com>',
+  metadata: { timestamp: '2023-06-06T09:16:31.269Z' }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tx'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tx',
+    timestamp: '2023-06-06T09:16:34.297Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tt'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tt',
+    timestamp: '2023-06-06T09:17:27.901Z'
+  }
+}
+{
+  level: 'error',
+  message: 'message sent: <c3f05494-017d-af54-679c-54b90ff09aab@gmail.com>',
+  metadata: { timestamp: '2023-06-06T09:19:05.903Z' }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tt'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tt',
+    timestamp: '2023-06-06T09:19:07.012Z'
+  }
+}
+{
+  level: 'error',
+  message: 'message sent: <9ace3833-fd0f-2d39-ddec-a4a54d842704@gmail.com>',
+  metadata: { timestamp: '2023-06-06T09:19:40.169Z' }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tt'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tt',
+    timestamp: '2023-06-06T09:20:01.275Z'
+  }
+}
+{
+  level: 'error',
+  message: 'message sent: <49ce8243-065c-d9dc-b90b-42a02a3eb8b5@gmail.com>',
+  metadata: { timestamp: '2023-06-06T13:09:10.129Z' }
+}
+{
+  level: 'error',
+  message: "Cannot read properties of undefined (reading 'send')",
+  metadata: { timestamp: '2023-06-06T13:09:10.140Z' }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tt'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tt',
+    timestamp: '2023-06-06T13:09:13.420Z'
+  }
+}
+{
+  level: 'error',
+  message: 'message sent: <fa2db997-0d54-a659-1793-d98367c62e60@gmail.com>',
+  metadata: { timestamp: '2023-06-06T13:11:02.797Z' }
+}
+{
+  level: 'error',
+  message: "Cannot read properties of undefined (reading 'send')",
+  metadata: { timestamp: '2023-06-06T13:11:02.809Z' }
+}
+{
+  level: 'error',
+  message: 'message sent: <f9e6e45a-1c76-9f7e-4e32-88ed47605a2c@gmail.com>',
+  metadata: { timestamp: '2023-06-06T13:11:21.567Z' }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tt'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tt',
+    timestamp: '2023-06-06T13:11:52.500Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tt'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tt',
+    timestamp: '2023-06-06T13:13:10.574Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tt'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tt',
+    timestamp: '2023-06-06T13:15:17.997Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tt'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tt',
+    timestamp: '2023-06-06T13:16:21.238Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct',
+    timestamp: '2023-06-06T13:17:21.098Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct',
+    timestamp: '2023-06-06T13:20:14.936Z'
+  }
+}
+{
+  level: 'error',
+  message: 'message sent: <03c00679-2192-78aa-3beb-b6b6cc5c0569@gmail.com>',
+  metadata: { timestamp: '2023-06-06T13:23:27.381Z' }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct',
+    timestamp: '2023-06-06T13:23:27.411Z'
+  }
+}
+{
+  level: 'error',
+  message: 'message sent: <aa5de2c3-70cc-d1b1-5377-40195c5909c6@gmail.com>',
+  metadata: { timestamp: '2023-06-06T13:24:30.916Z' }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct',
+    timestamp: '2023-06-06T13:24:30.937Z'
+  }
+}
+{
+  level: 'error',
+  message: 'message sent: <960ccf85-da9d-86ed-c090-653ec85be714@gmail.com>',
+  metadata: { timestamp: '2023-06-06T13:25:03.870Z' }
+}
+{
+  level: 'error',
+  message: 'message sent: <a3d5fa3d-890c-8ae4-6b45-b5a71b2bfd2a@gmail.com>',
+  metadata: { timestamp: '2023-06-06T13:25:39.279Z' }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct',
+    timestamp: '2023-06-06T13:25:39.323Z'
+  }
+}
+{
+  level: 'error',
+  message: 'message sent: <270e4295-897a-b330-d3cc-bc7713cfb07a@gmail.com>',
+  metadata: { timestamp: '2023-06-06T13:27:51.415Z' }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct',
+    timestamp: '2023-06-06T13:27:51.434Z'
+  }
+}
+{
+  level: 'error',
+  message: 'message sent: <27752cbb-0a8c-b891-bd44-a960c52e6a86@gmail.com>',
+  metadata: { timestamp: '2023-06-06T13:44:41.252Z' }
+}
+{
+  level: 'error',
+  message: 'message sent: <b327a988-85e3-5351-b52e-dcd0b0433943@gmail.com>',
+  metadata: { timestamp: '2023-06-06T13:46:09.970Z' }
+}
+{
+  level: 'error',
+  message: 'message sent: <68f15fb8-1ad4-6d2e-1eca-f6315ec6e9a3@gmail.com>',
+  metadata: { timestamp: '2023-06-06T13:46:30.874Z' }
+}
+{
+  level: 'error',
+  message: 'message sent: <7b8969b3-be47-fe0e-bbed-33cb65dff4ab@gmail.com>',
+  metadata: { timestamp: '2023-06-06T13:47:10.296Z' }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct',
+    timestamp: '2023-06-06T13:48:11.124Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct',
+    timestamp: '2023-06-06T13:48:39.676Z'
+  }
+}
+{
+  level: 'error',
+  message: 'message sent: <12cd52db-9f39-1e19-42f5-30f9ef21b68c@gmail.com>',
+  metadata: { timestamp: '2023-06-06T13:51:38.306Z' }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct',
+    timestamp: '2023-06-06T14:10:58.691Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct',
+    timestamp: '2023-06-06T14:11:44.801Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct',
+    timestamp: '2023-06-06T14:25:22.021Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct',
+    timestamp: '2023-06-06T14:28:34.506Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tct',
+    timestamp: '2023-06-06T14:29:45.949Z'
+  }
+}
+{
+  level: 'error',
+  message: 'mailSend is not defined',
+  metadata: { timestamp: '2023-06-06T14:29:53.566Z' }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /readFile/Comedy/comedy1.tct/5',
+  metadata: {
+    meta: {
+      req: {
+        url: '/readFile/Comedy/comedy1.tct/5',
+        headers: {
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.32.2',
+          accept: '*/*',
+          'postman-token': 'cfcd15ee-b0ba-471f-93e9-09c299dd5c62',
+          host: 'localhost:4000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '50'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/readFile/Comedy/comedy1.tct/5',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 7640
+    },
+    timestamp: '2023-06-06T14:29:53.593Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tst'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tst',
+    timestamp: '2023-06-06T14:30:18.677Z'
+  }
+}
+{
+  level: 'error',
+  message: 'mailSend is not defined',
+  metadata: { timestamp: '2023-06-06T14:30:26.104Z' }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /readFile/Comedy/comedy1.tst/5',
+  metadata: {
+    meta: {
+      req: {
+        url: '/readFile/Comedy/comedy1.tst/5',
+        headers: {
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.32.2',
+          accept: '*/*',
+          'postman-token': 'f2be091b-53db-43ad-b049-d935885b7ba5',
+          host: 'localhost:4000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '50'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/readFile/Comedy/comedy1.tst/5',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 7437
+    },
+    timestamp: '2023-06-06T14:30:26.114Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tx'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tx',
+    timestamp: '2023-06-06T14:31:48.432Z'
+  }
+}
+{
+  level: 'error',
+  message: 'mailSend is not defined',
+  metadata: { timestamp: '2023-06-06T14:31:55.254Z' }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /readFile/Comedy/comedy1.tx/5',
+  metadata: {
+    meta: {
+      req: {
+        url: '/readFile/Comedy/comedy1.tx/5',
+        headers: {
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.32.2',
+          accept: '*/*',
+          'postman-token': '083cc80d-1c31-477a-b27a-bcf9a50f9f11',
+          host: 'localhost:4000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '50'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/readFile/Comedy/comedy1.tx/5',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 6831
+    },
+    timestamp: '2023-06-06T14:31:55.263Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tx'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tx',
+    timestamp: '2023-06-06T14:47:34.937Z'
+  }
+}
+{
+  level: 'error',
+  message: 'mailSend is not defined',
+  metadata: { timestamp: '2023-06-06T14:47:42.435Z' }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /readFile/Comedy/comedy1.tx/5',
+  metadata: {
+    meta: {
+      req: {
+        url: '/readFile/Comedy/comedy1.tx/5',
+        headers: {
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.32.2',
+          accept: '*/*',
+          'postman-token': 'e0e9798c-cd18-4c74-a2e7-237a7b3b3cee',
+          host: 'localhost:4000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '50'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/readFile/Comedy/comedy1.tx/5',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 7521
+    },
+    timestamp: '2023-06-06T14:47:42.462Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tx'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tx',
+    timestamp: '2023-06-06T14:54:00.358Z'
+  }
+}
+{
+  level: 'error',
+  message: 'mailSend is not defined',
+  metadata: { timestamp: '2023-06-06T14:54:07.904Z' }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /readFile/Comedy/comedy1.tx/5',
+  metadata: {
+    meta: {
+      req: {
+        url: '/readFile/Comedy/comedy1.tx/5',
+        headers: {
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.32.2',
+          accept: '*/*',
+          'postman-token': '4db62176-08d3-4245-9f45-b17d568b508e',
+          host: 'localhost:4000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '50'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/readFile/Comedy/comedy1.tx/5',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 7551
+    },
+    timestamp: '2023-06-06T14:54:07.911Z'
+  }
+}
+{
+  level: 'error',
+  message: "ENOENT: no such file or directory, open 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tt'",
+  metadata: {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'D:\\PROJECTS\\STORIES_MS\\backend\\STORIES\\Comedy\\comedy1.tt',
+    timestamp: '2023-06-06T20:04:34.858Z'
+  }
+}
+{
+  level: 'error',
+  message: 'connect EHOSTUNREACH 74.125.130.108:465',
+  metadata: {
+    errno: -4073,
+    code: 'ESOCKET',
+    syscall: 'connect',
+    address: '74.125.130.108',
+    port: 465,
+    command: 'CONN',
+    timestamp: '2023-06-06T20:04:34.916Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP GET /readFile/Comedy/comedy1.tt/5',
+  metadata: {
+    meta: {
+      req: {
+        url: '/readFile/Comedy/comedy1.tt/5',
+        headers: {
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.32.2',
+          accept: '*/*',
+          'postman-token': '5ff63346-ad23-4c0b-843c-b5bb031e1234',
+          host: 'localhost:4000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '50'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/readFile/Comedy/comedy1.tt/5',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 75
+    },
+    timestamp: '2023-06-06T20:04:34.920Z'
+  }
+}
+{
+  level: 'error',
+  message: 'mailSend is not defined',
+  metadata: { timestamp: '2023-06-06T22:03:52.129Z' }
+}
+{
+  level: 'error',
+  message: "Cannot read properties of null (reading 'password')",
+  metadata: { timestamp: '2023-06-15T22:05:10.080Z' }
+}
+{
+  level: 'error',
+  message: "Cannot read properties of null (reading 'password')",
+  metadata: { timestamp: '2023-06-16T07:38:27.732Z' }
+}
